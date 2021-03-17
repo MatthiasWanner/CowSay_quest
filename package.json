@@ -1,0 +1,22 @@
+{
+  "name": "cowsay_quest",
+  "version": "1.0.0",
+  "description": "Odyssey node quest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthiasWanner/CowSay_quest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthiasWanner/CowSay_quest/issues"
+  },
+  "homepage": "https://github.com/MatthiasWanner/CowSay_quest#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
